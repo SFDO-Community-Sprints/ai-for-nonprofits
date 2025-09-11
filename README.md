@@ -4,8 +4,9 @@ AI for Nonprofits
 # Project Overview
 ## Vision & Goals
 Please replace with your projects vision.
-* Goal 1
-* Goal 2
+* Make AI easily accessible to nonprofit organizations
+* Develop and deploy quick start agents
+* Create an AI for Nonprofits repository
 
 ## Project Vertical
 Nonprofit
