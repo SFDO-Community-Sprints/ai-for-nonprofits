@@ -82,9 +82,21 @@ Getting Started with AI: 3 Easy Wins for Nonprofits
 
 Full Name            | Team Role     | Github Username                                    | Working Group? 
 ------------         | ------------- | -------------                                      |-------------   
-Suzie Campbell       | Participant   |                                                    | Automate Donor Communications
-Nate Rusch   | Participant   |                                                    | Automate Donor Communications
+Jana Walker | Group Leader
+Katie Loescher | Group Leader
+Suzie Campbell       | Contributer   |                                                    | Automate Donor Communications
+Nate Rusch   | Contributer   |                                                    | Automate Donor Communications
+Leah Meyers | Contributer | | Summarize Grant Guidlines
+Lou Bialon-Crane | Contributer | | Summarize Grant Guidlines
+Anthony Latunski | Contributer | | Social Media for Nonprofits
+Piyusha Pilania | Contributer | | Social Media for Nonprofits
+Aaron Gunning | Contributer | | Agentforce Features
+Joe Brownstein | Contributer | | Agentforce Features
+Shreyas Vijayasarathy | Contributer | | Agentforce Features
+Tania Ortiz-Ashby | Contributer |
 
 ## Future Contributions 
-(AKA what were you unable to finish at the Sprint)
-Replace with the goals your team would like to continue working on next time.
+1. Update GitHub Repository with Virtual Sprint participants and Results
+2. Create Video demos on Social Media Content Creation and other Virtual Sprint projects
+3. Create an unmanaged package demo Open AI connection to org, instructions and demo video
+4. Quick Start Agentforce Features
