@@ -11,7 +11,7 @@ Please replace with your projects vision.
 Nonprofit
 
 ## Trailblazer Group or Slack Channel Link (access required)
-Please replace with the URL for your Trailblazer Community group and/or Slack channel issued by the Commons program team.
+https://trailhead.salesforce.com/trailblazer-community/groups/0F9KX0000009xl90AA?tab=discussion&sort=LAST_MODIFIED_DATE_DESC 
 
 ## How to Contribute:
 - Way 1.
