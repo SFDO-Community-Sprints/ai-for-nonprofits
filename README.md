@@ -20,4 +20,4 @@ https://trailhead.salesforce.com/trailblazer-community/groups/0F9KX0000009xl90AA
 - Way 3. 
 
 ## Project Resources and Documentation
-Documentation can be found in the repository [wiki] (URL for wiki where docs are stored)
+Documentation can be found in the repository [wiki](https://github.com/SFDO-Community-Sprints/ai-for-nonprofits/wiki)    
