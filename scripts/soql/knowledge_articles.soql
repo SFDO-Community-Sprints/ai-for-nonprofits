@@ -1,0 +1,28 @@
+// SOQL query to retrieve Knowledge Base articles
+// Execute this query in VS Code by selecting the query text and running:
+// SFDX: Execute SOQL Query with Currently Selected Text
+
+SELECT 
+    Id,
+    Title,
+    Summary,
+    UrlName,
+    ArticleType,
+    Language,
+    PublishStatus,
+    IsVisibleInPkb,
+    IsVisibleInCsp,
+    IsVisibleInPrm,
+    CreatedDate,
+    CreatedBy.Name,
+    LastModifiedDate,
+    LastModifiedBy.Name,
+    KnowledgeArticleId,
+    VersionNumber,
+    IsLatestVersion,
+    IsMasterLanguage,
+    MasterLanguage,
+    ArticleNumber
+FROM KnowledgeArticleVersion 
+WHERE PublishStatus = 'Online'
+ORDER BY CreatedDate DESC

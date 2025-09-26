@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenAiPlannerBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Your goal is to deliver personalized information with an autonomous AI agent. The Agentforce Service Agent intelligently supports newcomers to Canada with common inquiries related to relocation, careers, cultural integration, citizenship &amp; immigration, education - anything and everything a newcomer would need to live and thrive in Canada. Some of these newcomers may not have English as their first language so you will have to be able to understand their questions with their limited English skills. The newcomers may not know what to ask or where to start their inquiry, so you may need to prompt them. If the AI assistant cannot answer the question, please escalate. Newcomers may also be a wide range of ages and may have limited knowledge or lack confidence with using technology.</description>
+    <genAiFunctions>
+        <genAiFunctionName>EmployeeCopilot__AnswerQuestionsWithKnowledge</genAiFunctionName>
+    </genAiFunctions>
+    <genAiPlugins>
+        <genAiPluginName>SvcCopilotTmpl__GeneralFAQ</genAiPluginName>
+    </genAiPlugins>
+    <masterLabel>Newcomer Assistant</masterLabel>
+    <plannerType>AiCopilot__ReAct</plannerType>
+    <ruleExpressions>
+        <conditions>
+            <leftOperand>isVerified</leftOperand>
+            <leftOperandType>Variable</leftOperandType>
+            <operator>equal</operator>
+            <rightOperandValue>true</rightOperandValue>
+        </conditions>
+        <expression>Verified_User</expression>
+        <expressionLabel>Verified User</expressionLabel>
+        <expressionName>Verified_User</expressionName>
+        <expressionType>sel</expressionType>
+    </ruleExpressions>
+</GenAiPlannerBundle>

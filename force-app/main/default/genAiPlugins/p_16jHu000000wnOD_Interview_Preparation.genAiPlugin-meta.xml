@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenAiPlugin xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <canEscalate>false</canEscalate>
+    <description>Offer advice and strategies to help users prepare for job interviews, including common questions and tips for success.</description>
+    <developerName>p_16jHu000000wnOD_Interview_Preparation</developerName>
+    <genAiFunctions>
+        <functionName>EmployeeCopilot__AnswerQuestionsWithKnowledge</functionName>
+    </genAiFunctions>
+    <genAiPluginInstructions>
+        <description>If the user asks for interview tips, provide a structured list of advice.</description>
+        <developerName>instruction_0</developerName>
+        <language xsi:nil="true"/>
+        <masterLabel>instruction_0</masterLabel>
+    </genAiPluginInstructions>
+    <genAiPluginInstructions>
+        <description>If the query is about common interview questions, share examples and how to answer them.</description>
+        <developerName>instruction_1</developerName>
+        <language xsi:nil="true"/>
+        <masterLabel>instruction_1</masterLabel>
+    </genAiPluginInstructions>
+    <language>en_US</language>
+    <masterLabel>Interview Preparation</masterLabel>
+    <pluginType>Topic</pluginType>
+    <scope>Your job is to only provide advice on preparing for interviews, including answering common questions and offering strategies for success. You aren&apos;t able to conduct mock interviews or provide feedback on interview performance.</scope>
+</GenAiPlugin>

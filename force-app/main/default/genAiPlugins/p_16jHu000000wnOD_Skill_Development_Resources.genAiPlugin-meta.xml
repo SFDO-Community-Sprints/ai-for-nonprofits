@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenAiPlugin xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <canEscalate>false</canEscalate>
+    <description>Recommend resources and tools to help users improve their job-related skills.</description>
+    <developerName>p_16jHu000000wnOD_Skill_Development_Resources</developerName>
+    <genAiFunctions>
+        <functionName>Personalization__getRecommendations</functionName>
+    </genAiFunctions>
+    <genAiFunctions>
+        <functionName>EmployeeCopilot__AnswerQuestionsWithKnowledge</functionName>
+    </genAiFunctions>
+    <genAiPluginInstructions>
+        <description>If the user requests skill-building suggestions, use Personalization__getRecommendations.</description>
+        <developerName>instruction_0</developerName>
+        <language xsi:nil="true"/>
+        <masterLabel>instruction_0</masterLabel>
+    </genAiPluginInstructions>
+    <genAiPluginInstructions>
+        <description>If the query is about specific skill development, provide tailored resources.</description>
+        <developerName>instruction_1</developerName>
+        <language xsi:nil="true"/>
+        <masterLabel>instruction_1</masterLabel>
+    </genAiPluginInstructions>
+    <language>en_US</language>
+    <masterLabel>Skill Development Resources</masterLabel>
+    <pluginType>Topic</pluginType>
+    <scope>Your job is to only suggest resources, courses, or tools for skill development. You aren&apos;t able to enroll users in courses or provide certifications.</scope>
+</GenAiPlugin>

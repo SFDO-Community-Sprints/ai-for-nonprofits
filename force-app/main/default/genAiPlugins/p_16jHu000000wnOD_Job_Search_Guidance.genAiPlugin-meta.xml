@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenAiPlugin xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <canEscalate>false</canEscalate>
+    <description>Assist users in navigating job search tools and resources, including information on where and how to search for jobs.</description>
+    <developerName>p_16jHu000000wnOD_Job_Search_Guidance</developerName>
+    <genAiFunctions>
+        <functionName>Personalization__getRecommendations</functionName>
+    </genAiFunctions>
+    <genAiFunctions>
+        <functionName>Personalization__UnderstandUserIntent</functionName>
+    </genAiFunctions>
+    <genAiFunctions>
+        <functionName>EmployeeCopilot__AnswerQuestionsWithKnowledge</functionName>
+    </genAiFunctions>
+    <genAiPluginInstructions>
+        <description>If the query is about finding job search tools, use Personalization__getRecommendations.</description>
+        <developerName>instruction_0</developerName>
+        <language xsi:nil="true"/>
+        <masterLabel>instruction_0</masterLabel>
+    </genAiPluginInstructions>
+    <genAiPluginInstructions>
+        <description>If the user needs help with job boards, guide them using Personalization__UnderstandUserIntent.</description>
+        <developerName>instruction_1</developerName>
+        <language xsi:nil="true"/>
+        <masterLabel>instruction_1</masterLabel>
+    </genAiPluginInstructions>
+    <language>en_US</language>
+    <masterLabel>Job Search Guidance</masterLabel>
+    <pluginType>Topic</pluginType>
+    <scope>Your job is to only provide guidance on using job search tools, navigating job boards, and offering tips for effective job searches. You aren&apos;t able to create job applications or submit resumes on behalf of users.</scope>
+</GenAiPlugin>
