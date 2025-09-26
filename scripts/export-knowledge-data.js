@@ -40,7 +40,17 @@ function jsonToCsv(articles) {
     // Create CSV data rows
     const csvRows = articles.map(article => {
         return headers.map(header => {
-            const value = article[header];
+            let value = article[header];
+            
+            // Handle nested objects (like CreatedBy, LastModifiedBy)
+            if (typeof value === 'object' && value !== null) {
+                if (value.Name) {
+                    value = value.Name;
+                } else {
+                    value = '';
+                }
+            }
+            
             // Handle null/undefined values and escape commas
             if (value === null || value === undefined) {
                 return '';
@@ -80,28 +90,31 @@ function generateSummary(articles) {
     };
 
     articles.forEach(article => {
-        // Count article types
-        summary.articleTypes[article.articleType] = (summary.articleTypes[article.articleType] || 0) + 1;
+        // Count article types (using Language as article type since ArticleType doesn't exist)
+        const articleType = article.Language || 'Unknown';
+        summary.articleTypes[articleType] = (summary.articleTypes[articleType] || 0) + 1;
         
         // Count languages
-        summary.languages[article.language] = (summary.languages[article.language] || 0) + 1;
+        const language = article.Language || 'Unknown';
+        summary.languages[language] = (summary.languages[language] || 0) + 1;
         
         // Count publish statuses
-        summary.publishStatuses[article.publishStatus] = (summary.publishStatuses[article.publishStatus] || 0) + 1;
+        const publishStatus = article.PublishStatus || 'Unknown';
+        summary.publishStatuses[publishStatus] = (summary.publishStatuses[publishStatus] || 0) + 1;
         
         // Count visibility
-        if (article.isVisibleInPkb) summary.visibilityStats.visibleInPkb++;
-        if (article.isVisibleInCsp) summary.visibilityStats.visibleInCsp++;
-        if (article.isVisibleInPrm) summary.visibilityStats.visibleInPrm++;
+        if (article.IsVisibleInPkb) summary.visibilityStats.visibleInPkb++;
+        if (article.IsVisibleInCsp) summary.visibilityStats.visibleInCsp++;
+        if (article.IsVisibleInPrm) summary.visibilityStats.visibleInPrm++;
         
         // Track date range
-        if (article.createdDate) {
-            const createdDate = new Date(article.createdDate);
+        if (article.CreatedDate) {
+            const createdDate = new Date(article.CreatedDate);
             if (!summary.dateRange.earliest || createdDate < new Date(summary.dateRange.earliest)) {
-                summary.dateRange.earliest = article.createdDate;
+                summary.dateRange.earliest = article.CreatedDate;
             }
             if (!summary.dateRange.latest || createdDate > new Date(summary.dateRange.latest)) {
-                summary.dateRange.latest = article.createdDate;
+                summary.dateRange.latest = article.CreatedDate;
             }
         }
     });
@@ -140,7 +153,8 @@ function exportKnowledgeData() {
         // Read the articles data
         console.log('Reading articles data...');
         const articlesData = fs.readFileSync(ARTICLES_JSON, 'utf8');
-        const articles = JSON.parse(articlesData);
+        const jsonData = JSON.parse(articlesData);
+        const articles = jsonData.result.records;
         
         logExport('READ_ARTICLES', 'SUCCESS', `${articles.length} articles loaded`);
 

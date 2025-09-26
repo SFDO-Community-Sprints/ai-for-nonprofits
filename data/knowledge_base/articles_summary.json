@@ -1,0 +1,32 @@
+{
+  "exportDate": "2025-09-26T20:48:37.364Z",
+  "totalArticles": 73,
+  "articleTypes": {
+    "en_US": 58,
+    "fr": 3,
+    "ja": 3,
+    "de": 3,
+    "pt_BR": 3,
+    "es_MX": 3
+  },
+  "languages": {
+    "en_US": 58,
+    "fr": 3,
+    "ja": 3,
+    "de": 3,
+    "pt_BR": 3,
+    "es_MX": 3
+  },
+  "publishStatuses": {
+    "Online": 73
+  },
+  "visibilityStats": {
+    "visibleInPkb": 43,
+    "visibleInCsp": 38,
+    "visibleInPrm": 44
+  },
+  "dateRange": {
+    "earliest": "2025-09-09T06:08:45.000+0000",
+    "latest": "2025-09-11T21:24:41.000+0000"
+  }
+}

@@ -1,0 +1,2637 @@
+{
+  "status": 0,
+  "result": {
+    "records": [
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029hZnIAI"
+        },
+        "Id": "ka0Hu0000029hZnIAI",
+        "Title": "Canada Pension Plan (CPP)",
+        "Summary": "The Canada Pension Plan (CPP) retirement pension is a monthly, taxable benefit that replaces part of your income when you retire. If you qualify, you’ll receive the CPP retirement pension for the rest of your life.",
+        "UrlName": "Canada-Pension-Plan-CPP",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-11T21:24:41.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-11T21:24:48.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FNcEKAW",
+        "VersionNumber": 1,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029hZiIAI"
+        },
+        "Id": "ka0Hu0000029hZiIAI",
+        "Title": "Medical Service Plan (MSP)",
+        "Summary": "Instructions for applying to MSP if you are a newcomer to Canada.",
+        "UrlName": "How-do-I-apply-for-MSP-Medical-Service-Plan",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-11T20:57:57.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-11T20:58:22.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FN90KAG",
+        "VersionNumber": 3,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029hJ7IAI"
+        },
+        "Id": "ka0Hu0000029hJ7IAI",
+        "Title": "Finding housing in Canada",
+        "Summary": "There are many housing options in Canada. Learn about what to consider when looking for a place to live.",
+        "UrlName": "Finding-housing-in-Canada",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-11T17:18:33.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-11T17:18:40.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FNLdKAO",
+        "VersionNumber": 1,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029hJ2IAI"
+        },
+        "Id": "ka0Hu0000029hJ2IAI",
+        "Title": "Working in Canada",
+        "Summary": "There are many resources you can use to get help with your job search in Canada.",
+        "UrlName": "Working-in-Canada",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-11T17:03:24.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-11T17:03:31.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FNLYKA4",
+        "VersionNumber": 1,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029hIsIAI"
+        },
+        "Id": "ka0Hu0000029hIsIAI",
+        "Title": "Social Insurance Number (SIN)",
+        "Summary": "If you are a Canadian citizen, a permanent resident or a temporary resident, you need a Social Insurance Number (SIN) to work in Canada or to receive benefits and services from government programs.",
+        "UrlName": "Social-Insurance-Number",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-11T16:43:32.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-11T16:43:39.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FNLTKA4",
+        "VersionNumber": 1,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fZxIAI"
+        },
+        "Id": "ka0Hu0000029fZxIAI",
+        "Title": "401k rollover",
+        "Summary": "What a 401k rollover is and how to initiate one.",
+        "UrlName": "401k-rollover",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGhKAO",
+        "VersionNumber": 1,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fZyIAI"
+        },
+        "Id": "ka0Hu0000029fZyIAI",
+        "Title": "Credit account closing disclosure",
+        "Summary": "This company must disclose to you when closing an account of yours that you have the right to dispute any adverse credit report item produced by the account closing.",
+        "UrlName": "Credit-account-closing-disclosure",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLHBKA4",
+        "VersionNumber": 1,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fZzIAI"
+        },
+        "Id": "ka0Hu0000029fZzIAI",
+        "Title": "Do you ship internationally?",
+        "Summary": "Our global shipping program delivers to countries worldwide",
+        "UrlName": "Do-you-ship-internationally",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGeKAO",
+        "VersionNumber": 1,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fa0IAA"
+        },
+        "Id": "ka0Hu0000029fa0IAA",
+        "Title": "Does your company offer discounts for non-profits?",
+        "Summary": "We support non-profits and charities with discounted products and services.",
+        "UrlName": "Does-your-company-offer-discounts-for-non-profits",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGsKAO",
+        "VersionNumber": 1,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fXVIAY"
+        },
+        "Id": "ka0Hu0000029fXVIAY",
+        "Title": "Why is my turbine not producing any energy?",
+        "Summary": "If your turbine is spinning, but not producing any energy, here is the most likely solution.",
+        "UrlName": "Why-is-my-turbine-not-producing-any-energy",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGaKAO",
+        "VersionNumber": 3,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fXWIAY"
+        },
+        "Id": "ka0Hu0000029fXWIAY",
+        "Title": "Solar panel has cracked glass",
+        "Summary": "We recommend that you have them repaired by one of our certified technicians since cracks will significantly reduce their effective life.",
+        "UrlName": "Solar-panel-has-cracked-glass",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGbKAO",
+        "VersionNumber": 3,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fXeIAI"
+        },
+        "Id": "ka0Hu0000029fXeIAI",
+        "Title": "How to submit request to replace solar panel",
+        "Summary": "If you've noticed that one or more of your solar panels are damaged, malfunctioning, or not performing as expected, it may be time to submit a request to replace them. Replacing faulty solar panels is essential to maintain the efficiency and effectiveness of your solar energy system. In this guide, we'll walk you through the process of submitting a request to replace a solar panel, ensuring a smooth and hassle-free experience.",
+        "UrlName": "How-to-Submit-a-Request-to-Replace-a-Solar-Panel",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGcKAO",
+        "VersionNumber": 7,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fXfIAI"
+        },
+        "Id": "ka0Hu0000029fXfIAI",
+        "Title": "How do I reset my solar panel system?",
+        "Summary": "Resetting your solar panel system may become necessary in certain situations, such as troubleshooting performance issues or addressing errors in system operation. While the process may vary depending on the type of system you have, this guide provides a general overview of how to reset a solar panel system safely and effectively.",
+        "UrlName": "How-to-Set-Up-Solar-Panels-for-Your-Home",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGYKA4",
+        "VersionNumber": 6,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fXgIAI"
+        },
+        "Id": "ka0Hu0000029fXgIAI",
+        "Title": "How to install your new solar panel",
+        "Summary": "Installing solar panels is a rewarding project that can help you reduce your carbon footprint and save on electricity bills. While the process may seem daunting, with proper planning and execution, you can successfully install solar panels on your property. This guide provides step-by-step instructions to help you navigate the installation process and harness the power of solar energy.",
+        "UrlName": "How-to-install-your-new-solar-panel",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGTKA4",
+        "VersionNumber": 6,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fXhIAI"
+        },
+        "Id": "ka0Hu0000029fXhIAI",
+        "Title": "Product warranty and repair policy",
+        "Summary": "Instructions on how to know if your product is under warranty and how to get it repaired.",
+        "UrlName": "product-warranty-repair-policy",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGRKA4",
+        "VersionNumber": 4,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fXiIAI"
+        },
+        "Id": "ka0Hu0000029fXiIAI",
+        "Title": "What is your privacy policy?",
+        "Summary": "We respect your privacy and take protecting it seriously.",
+        "UrlName": "What-is-your-privacy-policy",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGUKA4",
+        "VersionNumber": 4,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fXjIAI"
+        },
+        "Id": "ka0Hu0000029fXjIAI",
+        "Title": "Do I have a good site for a wind turbine?",
+        "Summary": "How to choose the best location for a wind turbine.",
+        "UrlName": "Do-I-have-a-good-site-for-a-wind-turbine",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGSKA4",
+        "VersionNumber": 3,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fXkIAI"
+        },
+        "Id": "ka0Hu0000029fXkIAI",
+        "Title": "How to install your new wind turbine",
+        "Summary": "Install a small wind turbine by selecting a suitable site, obtaining permits, assembling the turbine and tower, connecting electrical components safely, testing functionality, and ensuring regular maintenance for efficient, clean energy generation.",
+        "UrlName": "Installing-your-new-wind-turbine",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGXKA4",
+        "VersionNumber": 4,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fXlIAI"
+        },
+        "Id": "ka0Hu0000029fXlIAI",
+        "Title": "Frequently asked questions about billing",
+        "Summary": "Answers to common questions about billing issues",
+        "UrlName": "Frequently-asked-questions-about-billing",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGVKA4",
+        "VersionNumber": 3,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fXpIAI"
+        },
+        "Id": "ka0Hu0000029fXpIAI",
+        "Title": "Why is my turbine's electrical output low?",
+        "Summary": "If your turbine is not producing as much energy as it should, it might be turbulence.",
+        "UrlName": "Why-is-my-turbine-s-electrical-output-low",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLH5KAO",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fXrIAI"
+        },
+        "Id": "ka0Hu0000029fXrIAI",
+        "Title": "Solar panel isn't producing much electricity",
+        "Summary": "Most energy production issues are caused by system components other than the panels, such as the solar inverter, charge controller, wiring or batteries.",
+        "UrlName": "Solar-panel-isnt-producing-much-electricity",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLHDKA4",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fXtIAI"
+        },
+        "Id": "ka0Hu0000029fXtIAI",
+        "Title": "Condensation inside solar panel",
+        "Summary": "Condensation in solar panels results from temperature variations, affecting efficiency and durability. Solutions encompass ventilation, humidity control, sealing, maintenance, panel tilt, and coatings, ensuring consistent solar energy performance over time.",
+        "UrlName": "Condensation-inside-solar-panel",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGpKAO",
+        "VersionNumber": 1,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fXuIAI"
+        },
+        "Id": "ka0Hu0000029fXuIAI",
+        "Title": "Cracked wind turbine blade",
+        "Summary": "Our wind turbine blades are designed to be replaced individually so there is no need to purchase an entire blade assembly. You can even 3D print your own replacement with our downloadable models on our website.",
+        "UrlName": "Cracked-wind-turbine-blade",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLH3KAO",
+        "VersionNumber": 1,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fXxIAI"
+        },
+        "Id": "ka0Hu0000029fXxIAI",
+        "Title": "How to register a new product",
+        "Summary": "Discover where to find registration information, what details to provide, and navigate the process effortlessly.",
+        "UrlName": "How-to-register-a-new-product",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGxKAO",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fXyIAI"
+        },
+        "Id": "ka0Hu0000029fXyIAI",
+        "Title": "Loud noise coming from wind turbine",
+        "Summary": "If your wind turbine is making a loud grinding or squealing noise, it probably has a broken rotator seal and potentially gear damage if it has been happening for a while.",
+        "UrlName": "Loud-noise-coming-from-wind-turbine",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGoKAO",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fXzIAI"
+        },
+        "Id": "ka0Hu0000029fXzIAI",
+        "Title": "Wind turbine rotor stopped turning",
+        "Summary": "Wind turbine rotor stoppage reasons include wind conditions, mechanical/electrical problems, blade damage, icing, environment, or system issues. Maintenance, quick troubleshooting, and operational awareness are vital for consistent energy generation.",
+        "UrlName": "Wind-turbine-rotar-stopped-turning",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLHAKA4",
+        "VersionNumber": 1,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fY2IAI"
+        },
+        "Id": "ka0Hu0000029fY2IAI",
+        "Title": "Getting started as a partner",
+        "Summary": "Our partners enjoy unprecedented benefits and visibility into our product pipeline.",
+        "UrlName": "Getting-started-as-a-partner",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLH7KAO",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fY3IAI"
+        },
+        "Id": "ka0Hu0000029fY3IAI",
+        "Title": "How do I become a partner?",
+        "Summary": "You can self-register online for our partner program today.",
+        "UrlName": "How-do-I-become-a-partner",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLHFKA4",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fY4IAI"
+        },
+        "Id": "ka0Hu0000029fY4IAI",
+        "Title": "How do I post to the community?",
+        "Summary": "Posting a question to our community is simple!",
+        "UrlName": "How-do-I-post-to-the-community",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGwKAO",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fY5IAI"
+        },
+        "Id": "ka0Hu0000029fY5IAI",
+        "Title": "How do I update my profile?",
+        "Summary": "Updating your name, photo and contact details in your profile.",
+        "UrlName": "How-do-I-update-my-profile",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGmKAO",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029facIAA"
+        },
+        "Id": "ka0Hu0000029facIAA",
+        "Title": "401k contribution limits",
+        "Summary": "401k contribution limits and what happens when you reach them",
+        "UrlName": "401k-contribution-limits",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLHIKA4",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fadIAA"
+        },
+        "Id": "ka0Hu0000029fadIAA",
+        "Title": "Which forms of payment do you accept?",
+        "Summary": "We offer a range of convenient and secure payment options to ensure a seamless shopping experience for our valued customers. This guide will provide you with an overview of the payment methods available, helping you choose the one that best suits your preferences.",
+        "UrlName": "Which-forms-of-payment-do-you-accept",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGzKAO",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029faeIAA"
+        },
+        "Id": "ka0Hu0000029faeIAA",
+        "Title": "When can I enroll in 401k",
+        "Summary": "New employees are able to enroll on the Fidelity site at www.401k.com after receipt of their first pay check.",
+        "UrlName": "When-can-I-enroll-in-401k",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGyKAO",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fafIAA"
+        },
+        "Id": "ka0Hu0000029fafIAA",
+        "Title": "What’s your return policy?",
+        "Summary": "Our Return Policy is designed to provide you with clear guidelines on returning products, making the process smooth and hassle-free. Please take a moment to read and understand our policy before initiating a return.",
+        "UrlName": "Whats-your-return-policy",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGlKAO",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fagIAA"
+        },
+        "Id": "ka0Hu0000029fagIAA",
+        "Title": "What should I do if I lose access to my account?",
+        "Summary": "We understand that losing access to your account can be frustrating, but don't worry – we're here to guide you through the process of regaining access. Follow these steps to regain access to your Cirrus account and get back to enjoying our services.",
+        "UrlName": "What-should-I-do-if-I-lose-access-to-my-account",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLH2KAO",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fahIAA"
+        },
+        "Id": "ka0Hu0000029fahIAA",
+        "Title": "What shipping methods do you offer?",
+        "Summary": "We offer a variety of shipping methods to ensure that your orders are delivered to you in a timely and convenient manner. This guide will provide you with an overview of the shipping options available, helping you choose the method that best suits your needs.",
+        "UrlName": "What-shipping-methods-do-you-offer",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLHEKA4",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029faiIAA"
+        },
+        "Id": "ka0Hu0000029faiIAA",
+        "Title": "What kinds of activities qualify for Market Development Funds (MDF)?",
+        "Summary": "A list of activities which are eligible for Market Development Funds.",
+        "UrlName": "What-kinds-of-activities-qualify-for-Market-Development-Funds-MDF",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGqKAO",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fajIAA"
+        },
+        "Id": "ka0Hu0000029fajIAA",
+        "Title": "What kind of marketing support do I get as a partner?",
+        "Summary": "A full spectrum of marketing support is available for our partners.",
+        "UrlName": "What-kind-of-marketing-support-do-I-get-as-a-partner",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLHGKA4",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fakIAA"
+        },
+        "Id": "ka0Hu0000029fakIAA",
+        "Title": "What is your company's environmental policy?",
+        "Summary": "We believe it is both good business practice and our duty to protect the natural and cultural resources of the communities we serve.",
+        "UrlName": "What-is-your-company-s-environmental-policy",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGfKAO",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029falIAA"
+        },
+        "Id": "ka0Hu0000029falIAA",
+        "Title": "How do I initiate a return?",
+        "Summary": "We understand that occasionally you may need to return a product, and we're here to make the process as smooth as possible. This guide will walk you through the steps to initiate a return with Cirrus, ensuring a hassle-free experience.",
+        "UrlName": "How-do-I-initiate-a-return",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGkKAO",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029famIAA"
+        },
+        "Id": "ka0Hu0000029famIAA",
+        "Title": "Is my personal information secure?",
+        "Summary": "We have policies and procedures in place to ensure that your personal information remains secure with us.",
+        "UrlName": "Is-my-personal-information-secure",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGvKAO",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fY7IAI"
+        },
+        "Id": "ka0Hu0000029fY7IAI",
+        "Title": "What are the benefits of becoming a partner?",
+        "Summary": "There are many reasons to join our partner ecosystem.",
+        "UrlName": "What-are-the-benefits-of-becoming-a-partner",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLH9KAO",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fY8IAI"
+        },
+        "Id": "ka0Hu0000029fY8IAI",
+        "Title": "Do you have a partner certification program?",
+        "Summary": "Certified partners receive premium resources and access within the company.",
+        "UrlName": "Do-you-have-a-partner-certification-program",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLH8KAO",
+        "VersionNumber": 1,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fY9IAI"
+        },
+        "Id": "ka0Hu0000029fY9IAI",
+        "Title": "What is the deal registration process?",
+        "Summary": "Our deal registration process is designed to reward partners for referring new business.",
+        "UrlName": "What-is-the-deal-registration-process",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGgKAO",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fYAIAY"
+        },
+        "Id": "ka0Hu0000029fYAIAY",
+        "Title": "What are the rules for deal registrations?",
+        "Summary": "We seek to create a program that is fair and applies the same rules of engagement for all partners.",
+        "UrlName": "What-are-the-rules-for-deal-registrations",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGtKAO",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fYBIAY"
+        },
+        "Id": "ka0Hu0000029fYBIAY",
+        "Title": "Device has reduced battery life",
+        "Summary": "Identifying the causes of reduced battery life",
+        "UrlName": "Device-has-reduced-battery-life",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGiKAO",
+        "VersionNumber": 1,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fYCIAY"
+        },
+        "Id": "ka0Hu0000029fYCIAY",
+        "Title": "What is the difference between Market Development Funds (MDF) and Co-Op Funds?",
+        "Summary": "Choosing the right type of funding for you.",
+        "UrlName": "What-is-the-difference-between-Market-Development-Funds-MDF-and-Co-Op-Funds",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLH4KAO",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fYDIAY"
+        },
+        "Id": "ka0Hu0000029fYDIAY",
+        "Title": "What are the benefits of deal registration?",
+        "Summary": "Deal registration rewards partners for bringing in new business opportunities.",
+        "UrlName": "What-are-the-benefits-of-deal-registration",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLH6KAO",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fanIAA"
+        },
+        "Id": "ka0Hu0000029fanIAA",
+        "Title": "How does your company give back to the community?",
+        "Summary": "Our company's approach to philanthropy and social responsibility.",
+        "UrlName": "How-does-your-company-give-back-to-the-community",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGrKAO",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029faoIAA"
+        },
+        "Id": "ka0Hu0000029faoIAA",
+        "Title": "How do I return an item?",
+        "Summary": "Step-by-step instructions for returning an item to the company",
+        "UrlName": "How-do-I-return-an-item",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLHHKA4",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fapIAA"
+        },
+        "Id": "ka0Hu0000029fapIAA",
+        "Title": "How do I recover a forgotten password?",
+        "Summary": "You can easily reset your password online.",
+        "UrlName": "How-do-I-recover-a-forgotten-password",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGuKAO",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029farIAA"
+        },
+        "Id": "ka0Hu0000029farIAA",
+        "Title": "How do I increase my chances of getting a deal registration approved?",
+        "Summary": "Tips on ensuring that your deal registration application is complete.",
+        "UrlName": "How-do-I-increase-my-chances-of-getting-a-deal-registration-approved",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGnKAO",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fasIAA"
+        },
+        "Id": "ka0Hu0000029fasIAA",
+        "Title": "How do I find out about upcoming events in my area?",
+        "Summary": "Join our events to engage with customers and experts on a wide range of topics.",
+        "UrlName": "How-do-I-find-out-about-upcoming-events-in-my-area",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": true,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLH0KAO",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fatIAA"
+        },
+        "Id": "ka0Hu0000029fatIAA",
+        "Title": "How do I check the status of an order?",
+        "Summary": "Viewing and understanding the status of an order.",
+        "UrlName": "How-do-I-check-the-status-of-an-order",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLH1KAO",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fauIAA"
+        },
+        "Id": "ka0Hu0000029fauIAA",
+        "Title": "How do I change my 401k contribution",
+        "Summary": "To change your contribution percentage amount please log into your Fidelity account on www.401K.com. If you have questions with the page, please call Fidelity at 1‐800‐835‐5097.",
+        "UrlName": "How-do-I-change-my-401k-contribution",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLHCKA4",
+        "VersionNumber": 2,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fazIAA"
+        },
+        "Id": "ka0Hu0000029fazIAA",
+        "Title": "How do I cancel an order?",
+        "Summary": "How to view, manage and cancel orders",
+        "UrlName": "How-do-I-cancel-an-order",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": true,
+        "IsVisibleInCsp": true,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGjKAO",
+        "VersionNumber": 7,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fYOIAY"
+        },
+        "Id": "ka0Hu0000029fYOIAY",
+        "Title": "Device is not responding",
+        "Summary": "What to do when a device is not responding to input",
+        "UrlName": "Device-is-not-responding",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGZKA4",
+        "VersionNumber": 94,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fYdIAI"
+        },
+        "Id": "ka0Hu0000029fYdIAI",
+        "Title": "Message: \"Le service est momentanément indisponible\"",
+        "Summary": "Dépannage suite à ce message sur les terminaux connectés",
+        "UrlName": "Service-momentanement-indisponible",
+        "Language": "fr",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGWKA4",
+        "VersionNumber": 3,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": false,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fYeIAI"
+        },
+        "Id": "ka0Hu0000029fYeIAI",
+        "Title": "Le terminal ne répond plus",
+        "Summary": "Que faire quand un dispositif ne répond plus",
+        "UrlName": "Terminal-ne-repond-plus",
+        "Language": "fr",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGZKA4",
+        "VersionNumber": 94,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": false,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fYfIAI"
+        },
+        "Id": "ka0Hu0000029fYfIAI",
+        "Title": "デバイスの電源が入らない場合",
+        "Summary": "デバイスの画面をタッチしたりボタンを押したりしても反応しなくなる場合があります。また、電源を入れると起動の途中で動かなくなることがあります。記載の手順で対処してください。",
+        "UrlName": "デバイスの電源が入らない場合",
+        "Language": "ja",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGZKA4",
+        "VersionNumber": 94,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": false,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fYgIAI"
+        },
+        "Id": "ka0Hu0000029fYgIAI",
+        "Title": "\"Service ist vorübergehend nicht erreichbar\" meldung",
+        "Summary": "Fehlerbehebung dieser Meldung auf Ihren angeschlossenen Geräten.",
+        "UrlName": "Service-ist-vorübergehend-nicht-erreichbar-meldung",
+        "Language": "de",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGWKA4",
+        "VersionNumber": 3,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": false,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fYhIAI"
+        },
+        "Id": "ka0Hu0000029fYhIAI",
+        "Title": "Mensagem \"Serviço temporariamente indisponível\"",
+        "Summary": "Resolvendo este problema nos seus dispositivos.",
+        "UrlName": "Mensagem-Serviço-temporariamente-indisponível",
+        "Language": "pt_BR",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGWKA4",
+        "VersionNumber": 3,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": false,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fYiIAI"
+        },
+        "Id": "ka0Hu0000029fYiIAI",
+        "Title": "会員サイトに接続できない場合",
+        "Summary": "デバイスから会員サイトを開けない場合は、設定内容とネットワーク接続を確認し、問題に対処してください。",
+        "UrlName": "会員サイトに接続できない場合",
+        "Language": "ja",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGWKA4",
+        "VersionNumber": 3,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": false,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fYjIAI"
+        },
+        "Id": "ka0Hu0000029fYjIAI",
+        "Title": "O dispositivo não está respondendo",
+        "Summary": "O que fazer quando um dispositivo não está respondendo",
+        "UrlName": "O-dispositivo-não-está-respondendo",
+        "Language": "pt_BR",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGZKA4",
+        "VersionNumber": 94,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": false,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fYkIAI"
+        },
+        "Id": "ka0Hu0000029fYkIAI",
+        "Title": "El dispositivo no esta respondiendo",
+        "Summary": "Qué hacer cuando un dispositivo no responde a la entrada",
+        "UrlName": "El-dispositivo-no-esta-respondiendo",
+        "Language": "es_MX",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGZKA4",
+        "VersionNumber": 94,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": false,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fYlIAI"
+        },
+        "Id": "ka0Hu0000029fYlIAI",
+        "Title": "Mensaje - El servicio no está disponible temporalmente",
+        "Summary": "Localización y resolución de problemas de este mensaje en sus dispositivos conectados",
+        "UrlName": "Mensaje-El-servicio-no-está-disponible-temporalmente",
+        "Language": "es_MX",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGWKA4",
+        "VersionNumber": 3,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": false,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fYmIAI"
+        },
+        "Id": "ka0Hu0000029fYmIAI",
+        "Title": "バッテリー電力が急速になくなる場合",
+        "Summary": "バッテリーの電力が予想よりも早くなくなる場合は、バッテリーの状態を確認してください。",
+        "UrlName": "バッテリー電力が急速になくなる場合",
+        "Language": "ja",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGiKAO",
+        "VersionNumber": 1,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": false,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fYnIAI"
+        },
+        "Id": "ka0Hu0000029fYnIAI",
+        "Title": "Das Gerät reagiert nicht",
+        "Summary": "Was macht man, wenn ein Gerät nicht mehr reagiert?",
+        "UrlName": "Das-gerät-reagiert-nicht",
+        "Language": "de",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGZKA4",
+        "VersionNumber": 94,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": false,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fYoIAI"
+        },
+        "Id": "ka0Hu0000029fYoIAI",
+        "Title": "Dispositivo ha reducido la duración de la batería",
+        "Summary": "Identificar las causas de la reducción de la vida de la batería.",
+        "UrlName": "Dispositivo-ha-reducido-la-duración-de-la-batería",
+        "Language": "es_MX",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGiKAO",
+        "VersionNumber": 1,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": false,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fYpIAI"
+        },
+        "Id": "ka0Hu0000029fYpIAI",
+        "Title": "Gerät hat eine reduzierte Akkulaufzeit",
+        "Summary": "Ermittlung der Ursachen für eine reduzierte Akkulaufzeit.",
+        "UrlName": "Gerät-hat-eine-reduzierte-akkulaufzeit",
+        "Language": "de",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGiKAO",
+        "VersionNumber": 1,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": false,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fYqIAI"
+        },
+        "Id": "ka0Hu0000029fYqIAI",
+        "Title": "Dispositivo tem bateria com vida útil reduzida",
+        "Summary": "Identificando as causas de redução da duração da bateria.",
+        "UrlName": "Dispositivo-tem-bateria-com-vida-útil-reduzida",
+        "Language": "pt_BR",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGiKAO",
+        "VersionNumber": 1,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": false,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fYrIAI"
+        },
+        "Id": "ka0Hu0000029fYrIAI",
+        "Title": "Le terminal a une autonomie réduite",
+        "Summary": "Déterminer les causes d'une autonomie réduite.",
+        "UrlName": "Terminal-autonomie-reduite",
+        "Language": "fr",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGiKAO",
+        "VersionNumber": 1,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": false,
+        "ArticleMasterLanguage": "en_US"
+      },
+      {
+        "attributes": {
+          "type": "KnowledgeArticleVersion",
+          "url": "/services/data/v64.0/sobjects/KnowledgeArticleVersion/ka0Hu0000029fZ6IAI"
+        },
+        "Id": "ka0Hu0000029fZ6IAI",
+        "Title": "\"Service is temporarily unavailable\" message",
+        "Summary": "Troubleshooting this message on your connected devices",
+        "UrlName": "Service-is-temporarily-unavailable-message",
+        "Language": "en_US",
+        "PublishStatus": "Online",
+        "IsVisibleInPkb": false,
+        "IsVisibleInCsp": false,
+        "IsVisibleInPrm": false,
+        "CreatedDate": "2025-09-09T06:08:45.000+0000",
+        "CreatedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "LastModifiedDate": "2025-09-09T06:08:45.000+0000",
+        "LastModifiedBy": {
+          "attributes": {
+            "type": "User",
+            "url": "/services/data/v64.0/sobjects/User/005Hu00000RPnSaIAL"
+          },
+          "Name": "Jana Walker"
+        },
+        "KnowledgeArticleId": "kA0Hu000002FLGWKA4",
+        "VersionNumber": 3,
+        "IsLatestVersion": true,
+        "IsMasterLanguage": true,
+        "ArticleMasterLanguage": "en_US"
+      }
+    ],
+    "totalSize": 73,
+    "done": true
+  }
+}
