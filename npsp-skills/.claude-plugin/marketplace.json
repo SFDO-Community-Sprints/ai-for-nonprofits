@@ -1,0 +1,21 @@
+{
+  "name": "npsp-skills",
+  "owner": {
+    "name": "Nonprofit Skill Repository"
+  },
+  "metadata": {
+    "description": "Claude plugins for nonprofits using Salesforce NPSP.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "npsp-individual-giving",
+      "source": "./npsp-individual-giving",
+      "description": "Skills for individual giving fundraisers at nonprofits using Salesforce NPSP: donor meeting prep and follow-up, thank-you notes, monthly pipeline review, and gift processing.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "keywords": ["nonprofit", "fundraising", "npsp", "salesforce", "individual giving", "development"],
+      "license": "MIT"
+    }
+  ]
+}
