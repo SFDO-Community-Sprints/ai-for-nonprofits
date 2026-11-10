@@ -1,0 +1,17 @@
+{
+  "name": "npsp-individual-giving",
+  "version": "0.1.0",
+  "description": "Skills for individual giving fundraisers at nonprofits using Salesforce NPSP: donor meeting prep and follow-up, thank-you notes, monthly pipeline review, and gift processing.",
+  "author": {
+    "name": "Nonprofit Skill Repository"
+  },
+  "keywords": [
+    "nonprofit",
+    "fundraising",
+    "npsp",
+    "salesforce",
+    "individual giving",
+    "development"
+  ],
+  "license": "MIT"
+}
